@@ -1,1 +1,1 @@
-# Embedded-C-programming-using-8051-microcontroller
+# Embedded C programming using 8051 microcontroller
